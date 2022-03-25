@@ -1,0 +1,16 @@
+E:\.creations\DSTU\CSharp\Lab2\Lab2\bin\Debug\net5.0\Lab2.exe
+E:\.creations\DSTU\CSharp\Lab2\Lab2\bin\Debug\net5.0\Lab2.deps.json
+E:\.creations\DSTU\CSharp\Lab2\Lab2\bin\Debug\net5.0\Lab2.runtimeconfig.json
+E:\.creations\DSTU\CSharp\Lab2\Lab2\bin\Debug\net5.0\Lab2.runtimeconfig.dev.json
+E:\.creations\DSTU\CSharp\Lab2\Lab2\bin\Debug\net5.0\Lab2.dll
+E:\.creations\DSTU\CSharp\Lab2\Lab2\bin\Debug\net5.0\ref\Lab2.dll
+E:\.creations\DSTU\CSharp\Lab2\Lab2\bin\Debug\net5.0\Lab2.pdb
+E:\.creations\DSTU\CSharp\Lab2\Lab2\obj\Debug\net5.0\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+E:\.creations\DSTU\CSharp\Lab2\Lab2\obj\Debug\net5.0\Lab2.AssemblyInfoInputs.cache
+E:\.creations\DSTU\CSharp\Lab2\Lab2\obj\Debug\net5.0\Lab2.AssemblyInfo.cs
+E:\.creations\DSTU\CSharp\Lab2\Lab2\obj\Debug\net5.0\Lab2.csproj.CoreCompileInputs.cache
+E:\.creations\DSTU\CSharp\Lab2\Lab2\obj\Debug\net5.0\Lab2.dll
+E:\.creations\DSTU\CSharp\Lab2\Lab2\obj\Debug\net5.0\ref\Lab2.dll
+E:\.creations\DSTU\CSharp\Lab2\Lab2\obj\Debug\net5.0\Lab2.pdb
+E:\.creations\DSTU\CSharp\Lab2\Lab2\obj\Debug\net5.0\Lab2.genruntimeconfig.cache
+E:\.creations\DSTU\CSharp\Lab2\Lab2\obj\Debug\net5.0\Lab2.csproj.AssemblyReference.cache
